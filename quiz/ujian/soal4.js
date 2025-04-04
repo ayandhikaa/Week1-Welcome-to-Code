@@ -13,7 +13,6 @@ function xo(str) {
             oCount++;
         };
     }
-
     
     if (xCount === oCount) {
         return true;
